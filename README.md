@@ -1,2 +1,2 @@
 # Dandy-Espacial.github.io
-This is my main page for my portafolio
+This is my main page of my portafolio
